@@ -1,18 +1,18 @@
 
 public class Sentimento {
-	public void Feliz() {
-		System.out.println("");
+	public static String Feliz() {
+		return "Saber seu nome me deixou mais feliz!";
 	}	
-	public void Triste() {
-		System.out.println("");
+	public static String Triste() {
+		return "Agora tenho mais uma pessoa para desapontar";
 	}	
-	public void Mano() {
-		System.out.println("");
+	public static String Mano() {
+		return "Aí sim maninho(a).... Tem um dólar aí?";
 	}	
-	public void Esperanca() {
-		System.out.println("");
+	public static String Esperanca() {
+		return "Que seu dia seja cheio de novas pessoas";
 	}	
-	public void Puto() {
-		System.out.println("");
+	public static String Puto() {
+		return "Agora sai do meu caminho";
 	}
 }

@@ -1,18 +1,18 @@
 
 public class Saudacoes {
-	public void Feliz() {
-		System.out.println("");
+	public static String Feliz() {
+		return "Opa, quem é você que passa aqui neste dia lindo?";
 	}	
-	public void Triste() {
-		System.out.println("");
+	public static String Triste() {
+		return "Oi...";
 	}	
-	public void Mano() {
-		System.out.println("");
+	public static String Mano() {
+		return "Iaí mermão";
 	}	
-	public void Esperanca() {
-		System.out.println("");
+	public static String Esperanca() {
+		return "Olá raio de sol que ilumina meu caminho";
 	}	
-	public void Puto() {
-		System.out.println("");
+	public static String Puto() {
+		return "Porra mais um para me atrapalhar";
 	}	
 }
