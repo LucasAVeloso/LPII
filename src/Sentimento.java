@@ -1,9 +1,18 @@
 
 public class Sentimento {
-	public void Cara1() {
-		System.out.println("Me sentindo extorquido, mas bem... e você?");
-	}
-	public void Cara2() {
-		System.out.println("1 dólar mais rico, não poderia estar melhor!");
+	public void Feliz() {
+		System.out.println("");
+	}	
+	public void Triste() {
+		System.out.println("");
+	}	
+	public void Mano() {
+		System.out.println("");
+	}	
+	public void Esperanca() {
+		System.out.println("");
+	}	
+	public void Puto() {
+		System.out.println("");
 	}
 }

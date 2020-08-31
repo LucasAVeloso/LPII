@@ -1,11 +1,18 @@
 
 public class Saudacoes {
-
-	public void Cara1() {
-		System.out.println("Fala mano tudo bem?");
-	}
-	public void Cara2() {
-		System.out.println("Iaii carinha que mora logo ali... Tem R$5,39 aí?");
-	}
-	
+	public void Feliz() {
+		System.out.println("");
+	}	
+	public void Triste() {
+		System.out.println("");
+	}	
+	public void Mano() {
+		System.out.println("");
+	}	
+	public void Esperanca() {
+		System.out.println("");
+	}	
+	public void Puto() {
+		System.out.println("");
+	}	
 }

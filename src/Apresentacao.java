@@ -1,9 +1,18 @@
 
-public class Apresentacao {
-	public void Cara1() {
-		System.out.println("Claro, toma aqui. Sou o Chris e vc?");
-	}
-	public void Cara2() {
-		System.out.println("Me chame de Julius meu irmão. Mas eae, ta bem?");
-	}
+public class Apresentacao {	
+	public void Feliz() {
+		System.out.println("");
+	}	
+	public void Triste() {
+		System.out.println("");
+	}	
+	public void Mano() {
+		System.out.println("");
+	}	
+	public void Esperanca() {
+		System.out.println("");
+	}	
+	public void Puto() {
+		System.out.println("");
+	}	
 }
